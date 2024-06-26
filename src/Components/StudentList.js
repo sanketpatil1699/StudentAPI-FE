@@ -1,4 +1,3 @@
-// src/components/StudentList.js
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 const StudentList = () => {
